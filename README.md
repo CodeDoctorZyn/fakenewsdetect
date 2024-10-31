@@ -55,17 +55,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Acknowledgements
 
 Thank you to the open-source community for their invaluable resources and contributions.
-Special thanks to [insert any mentors, courses, or resources that helped you].
-Contact
 
-For inquiries or feedback, please reach out to me at [your-email@example.com].
-
-sql
-Copy code
-
-### Notes:
-- Replace `yourusername` with your GitHub username in the clone URL.
-- Update the contact email with your own email address.
-- Customize any section as per your project’s specifics or your preferences. 
-
-Feel free to ask if you need further modifications!
